@@ -8,6 +8,12 @@ authors = ["Your Name <you@example.com>"]
 python = "^3.8"
 pymongo = "^4.2.0"
 dnspython = "^2.2.1"
+coverage = "^6.4.4"
+pymongo-inmemory = "^0.2.8"
+mongomock = "^4.1.2"
+fastapi = "^0.79.1"
+uvicorn = "^0.18.2"
+pytest-cov = "^3.0.0"
 
 [tool.poetry.dev-dependencies]
 pytest = "^7.1.2"
